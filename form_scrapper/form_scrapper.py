@@ -1,5 +1,5 @@
+from form_scrapper.question import Question
 from form_scrapper.utils import html_getter, get_question_list, parse_question
-from question import Question
 
 class FormScrapper:
     def fetch_from_url(url):
