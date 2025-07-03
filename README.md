@@ -1,5 +1,3 @@
-
-````markdown
 # Form Scraper
 
 > A Python library to scrape public Google Forms and extract questions and their properties (type, required, options, etc.).
