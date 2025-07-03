@@ -17,8 +17,6 @@ cd form_scraper
 pip -r install requirements.txt
 ```
 
-```
-
 ## Features
 
 * Extract all questions from a public Google Form
