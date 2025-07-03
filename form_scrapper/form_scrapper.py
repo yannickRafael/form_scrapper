@@ -1,5 +1,4 @@
 from form_scrapper.utils import html_getter, get_question_list, parse_question
-import regex
 from models.question import Question
 
 class FormScrapper:
