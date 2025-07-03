@@ -1,4 +1,4 @@
-from config import Config
+from form_scrapper.config import Config
 
 class Question:
     def __init__(self, raw_data):
